@@ -1,2 +1,1 @@
-# portfolio
-Personal projects
+# 💼 Portfolio Personnel
