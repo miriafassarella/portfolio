@@ -12,5 +12,8 @@ export class ProjectCard implements OnInit{
     console.log("Olá");
   }
 
+  printMessage(): void {
+    
+  }
 
 }
